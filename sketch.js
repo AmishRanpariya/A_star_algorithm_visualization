@@ -39,7 +39,7 @@ function heuristic(a, b) {
 	return dist(a.i, a.j, b.i, b.j);
 }
 
-const ObstacleRate = 0.55;
+const ObstacleRate = 0.5;
 let cols = 55,
 	rows = cols;
 let grid = new Array(cols);
