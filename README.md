@@ -8,7 +8,8 @@ In case there is no route to reach middle bottom point it will stop; PS: Plz, re
 
 ### Here are some screenshot with varius size of visible maze and invisible maze
 
-![demo image](./astar.png)
+<!-- ![demo image](./astar.png) -->
+
 ![demo image](./astar2.png)
 ![demo image](./astar3.png)
 ![demo image](./astar7.png)
